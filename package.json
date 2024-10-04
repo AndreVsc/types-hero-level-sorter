@@ -1,0 +1,19 @@
+{
+  "name": "types-hero-level-sorter",
+  "version": "1.0.0",
+  "description": "Create a hero level classifier using variables, operators, loops, and decision structures. Store the hero's name and experience points (XP). Based on XP, classify the hero's level: Iron, Bronze, Silver, Gold, Platinum, Ascendant, Immortal, or Radiant. Display: \"The Hero named {name} is at the level of {level}\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
